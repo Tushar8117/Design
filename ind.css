@@ -258,8 +258,15 @@ font-size: large;
     /* background-color: #0C134F; */
     font-size: medium;
   }
+  .bottom{
+    gap:10px;
+  }
+  .bottom-img{
+    height:300px;
+    width: 420px; 
+  }
   .circle{
-    height: 146px;
+    height: 142px;
     width: 210px;
     border-radius: 70px;
     right: 30px;
@@ -275,7 +282,7 @@ font-size: large;
    }
    .arrow-svg{
     position: relative;
-    left: 3.3rem;
+    left: 5.3rem;
     bottom: 2rem;
    }
   
