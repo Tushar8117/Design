@@ -259,18 +259,19 @@ font-size: large;
     font-size: medium;
   }
   .circle{
-    height: 105px;
-    width: 240px;
-    border-radius: 50px;
+    height: 146px;
+    width: 210px;
+    border-radius: 70px;
     right: 30px;
     bottom: 5rem;
    }
    .white{
-    left:40px;
+    left:60px;
+     top:4rem;
     
    }
    svg{
-     bottom: 4rem;
+     bottom: 3rem;
    }
    .arrow-svg{
     position: relative;
