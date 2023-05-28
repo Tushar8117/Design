@@ -390,17 +390,15 @@ font-size: large;
         padding: 0 20px;
 
     }
-    .bottom p
-    {
-        font-size: medium;
-    }
+   
     .boy-girl
     {
-        top: 100px;
-        right: 20px;
+        top: 40px;
+        right: 12px;
     }
   .arrow-svg{
-      margin-left: 14px;
+      top:-2rem;
+       left:4rem;
     }
     
 }
